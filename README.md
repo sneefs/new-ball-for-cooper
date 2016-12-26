@@ -14,3 +14,9 @@ All code is in [cooper.c](cooper.c). See comment at end for compiling and linkin
 
 ![schematic](circuit.jpg)
 ![usbprog](attiny-programming-schematics.jpg)
+
+Getting there! Got a [printed circuit board](IMG_20161202_174834.jpg) and got everything soldered up and blinking:
+
+![itworks](IMG_20161211_154508.jpg)
+
+No video of the final thing yet.. it still needs to go into the ball! But here's the breadboard prototype https://youtu.be/6JcLhTpbpu4 doing a "swish" effect and morsing "Cooper". I threw a plastic bag on it to see the colors better; towards the end I take the bag off, and you can see the individual LEDs.
