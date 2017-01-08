@@ -1,6 +1,11 @@
 # New ball for Cooper!
 
 ![best dog](kerp.jpg "best dog")
+[![video of ball](https://img.youtube.com/vi/VsD0VAgUd00/0.jpg)](https://www.youtube.com/watch?v=VsD0VAgUd00)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VsD0VAgUd00" frameborder="0" allowfullscreen></iframe>
 
 Cooper's glow-in-the-dark ball broke. The rubber ball is fine, so I'm making a blinky to go inside: an attiny45 microcontroller driving three LEDs, doing some color effects. One of them spells "Cooper" in morse code.
 
@@ -18,5 +23,3 @@ All code is in [cooper.c](cooper.c). See comment at end for compiling and linkin
 Getting there! Got a [printed circuit board](IMG_20161202_174834.jpg) and got everything soldered up and blinking:
 
 ![itworks](IMG_20161211_154508.jpg)
-
-No video of the final thing yet.. it still needs to go into the ball! But here's the breadboard prototype https://youtu.be/6JcLhTpbpu4 doing a "swish" effect and morsing "Cooper". I threw a plastic bag on it to see the colors better; towards the end I take the bag off, and you can see the individual LEDs.
