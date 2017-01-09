@@ -7,7 +7,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VsD0VAgUd00" frameborder="0" allowfullscreen></iframe>
 
-Cooper's glow-in-the-dark ball broke. The rubber ball was fine, so I made a new blinky to go inside: an attiny45 microcontroller driving three LEDs, doing some color effects. One of them spells C-o-o-p-e-r in morse code.
+Cooper's glow-in-the-dark ball broke. It's hard to play fetch at night without one! The rubber ball was fine, so I made a new blinky to go inside: an attiny45 microcontroller driving three LEDs, doing some color effects. One of them spells C-o-o-p-e-r in morse code.
 
 .
 
